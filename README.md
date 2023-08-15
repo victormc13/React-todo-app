@@ -34,7 +34,7 @@
 
 <!-- > Describe your project in 1 or 2 sentences. -->
 
-**[React-todo-app]** was created with the intention of aiding me in acquiring a comprehensive understanding of React's best practices. Whether I found myself at the outset of my journey
+**[React-todo-app]** was created with the intention of aiding me in acquiring a comprehensive understanding of React's best practices. Whether I found myself at the outset of my journey, seeking to construct a robust groundwork, or as a seasoned developer striving to elevate my expertise.
 
 ## 🛠 Built With <a name="built-with"></a>
 
